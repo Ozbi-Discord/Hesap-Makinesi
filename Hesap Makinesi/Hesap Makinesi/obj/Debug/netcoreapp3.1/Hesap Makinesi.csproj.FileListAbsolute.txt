@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\bin\Debug\netcoreapp3.1\Hesap Makinesi.exe
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\bin\Debug\netcoreapp3.1\Hesap Makinesi.deps.json
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\bin\Debug\netcoreapp3.1\Hesap Makinesi.runtimeconfig.json
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\bin\Debug\netcoreapp3.1\Hesap Makinesi.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\bin\Debug\netcoreapp3.1\Hesap Makinesi.dll
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\bin\Debug\netcoreapp3.1\Hesap Makinesi.pdb
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap_Makinesi.Form1.resources
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.AssemblyInfo.cs
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.dll
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.pdb
+C:\Users\pc\Desktop\Deneme Code\Hesap Makinesi\Hesap Makinesi\obj\Debug\netcoreapp3.1\Hesap Makinesi.genruntimeconfig.cache
